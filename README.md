@@ -19,7 +19,7 @@ Trained the model using Optuna (just fancy hyperparameter tuning stuff).
 
 **Files saved:**
 ```
-final_model_lightgbm.joblib
+final_model_lightgbm.joblib ( IT IS NOT UPLOADED HERE AS IT IS >25 MB IN SIZE)
 
 lgb_preprocessing_pipeline.joblib
 
