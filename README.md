@@ -24,6 +24,8 @@ final_model_lightgbm.joblib
 lgb_preprocessing_pipeline.joblib
 
 lgb_label_encoder.joblib
+
+lightgbm_trainingcode.ipynb
 ```
 
 # 🧠 **Neural Network Models (3 Files):**
@@ -55,6 +57,8 @@ final_model_xgboost_real.joblib
 xgb_preprocessing_pipeline_real.joblib
 
 xgb_label_encoder_real.joblib
+
+xcb_trainingcode.ipynb
 ```
 
 # **🛠️ The Main Thing: Ensemble Model (Soft Voting Classifier)**
