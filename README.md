@@ -17,7 +17,7 @@ Did preprocessing by filling missing values with the average (mean) and added po
 Used Label Encoding (making labels numeric).
 Trained the model using Optuna (just fancy hyperparameter tuning stuff).
 
-**Files saved:**
+**Files saved: (3 models, and 1 ipynb file used to train and save the models)**
 ```
 final_model_lightgbm.joblib ( IT IS NOT UPLOADED HERE AS IT IS >25 MB IN SIZE)
 
@@ -50,7 +50,7 @@ Used SMOTE (this cool method to balance out classes) and scaled the features.
 Did Label Encoding for labels.
 Did hyperparameter tuning with Optuna for parameters like eta, max depth, gamma, subsample, and stuff like that.
 
-**Files saved:**
+**Files saved: (3 models, and 1 ipynb file used to train and save the models)**
 ```
 final_model_xgboost_real.joblib
 
