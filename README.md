@@ -140,4 +140,4 @@ Download the ensemble_submission.csv file and submit it directly on Kaggle.
 # 📈 **Checking How Well It Did (Evaluation):**
 If your test data already has the correct labels in it, the script automatically shows accuracy and a classification report (precision, recall, F1-score, etc.) right on the console.
 
-**Accuracy on training data was 93.6 %**
+**Accuracy on testing data was 93.6 %**
