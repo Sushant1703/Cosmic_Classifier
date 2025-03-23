@@ -24,6 +24,8 @@ final_model_lightgbm.joblib
 lgb_preprocessing_pipeline.joblib
 
 lgb_label_encoder.joblib
+
+lightgbm_trainingcode.ipynb
 ```
 
 # 🧠 **Neural Network Models (3 Files):**
@@ -55,6 +57,8 @@ final_model_xgboost_real.joblib
 xgb_preprocessing_pipeline_real.joblib
 
 xgb_label_encoder_real.joblib
+
+xcb_trainingcode.ipynb
 ```
 
 # **🛠️ The Main Thing: Ensemble Model (Soft Voting Classifier)**
@@ -140,4 +144,4 @@ Download the ensemble_submission.csv file and submit it directly on Kaggle.
 # 📈 **Checking How Well It Did (Evaluation):**
 If your test data already has the correct labels in it, the script automatically shows accuracy and a classification report (precision, recall, F1-score, etc.) right on the console.
 
-**Accuracy on training data was 93.6 %**
+**Accuracy on testing data was 93.6 %**
